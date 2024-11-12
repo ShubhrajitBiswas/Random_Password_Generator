@@ -45,9 +45,9 @@ Usage
 Contributing
 Contributions are welcome! Feel free to open an issue or create a pull request if you find bugs or want to add new features.
 
-License
+## Lisence
 This project is licensed under the MIT License.
 
-Author
+## Author
 Made by Shubhrajit Biswas
-#
+
