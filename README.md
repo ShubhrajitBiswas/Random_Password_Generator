@@ -30,7 +30,7 @@ To run this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ShubhrajitBiswas/password-generator.git
+   git clone https://github.com/ShubhrajitBiswas/Random_Password_Generator.git
 2. Navigate to the project directory:
 
 cd password-generator
